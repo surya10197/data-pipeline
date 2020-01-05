@@ -1,4 +1,3 @@
-***How to run***
 
 *Steps to run*
 
