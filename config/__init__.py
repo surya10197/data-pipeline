@@ -2,9 +2,9 @@
 
 # from sqlalchemy import create_engine
 
-import boto3
+#import boto3
 
-s3 = boto3.client('s3')
+#s3 = boto3.client('s3')
 
 # PSQL Object creation
 # conn = create_engine(POSTGRES_CONN_LINK, encoding='utf8',
